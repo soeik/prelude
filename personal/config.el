@@ -20,6 +20,7 @@
 (prelude-require-packages '(rjsx-mode
                             typescript-mode
                             tide
+                            ace-jump-mode
                             moe-theme))
 
 ;; Unbind right option key
